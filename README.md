@@ -18,7 +18,7 @@ Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end 
 <p/>
 
 ## HENRY
-![henry]([https://github.com/tuusuario/turepositorio/raw/main/assets/logo.png](https://matiasfunes94.github.io/Portfolio-MatiasFunes94/assets/img/portfolio/henry.png))
+![henry](https://matiasfunes94.github.io/Portfolio-MatiasFunes94/assets/img/portfolio/henry.png)
 
 
 
