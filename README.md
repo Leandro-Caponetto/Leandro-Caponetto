@@ -17,8 +17,8 @@ Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end 
 📞Tel: +54 1161691727
 <p/>
 
-## Lenguajes y herramientas
-![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
+## HENRY
+![henry](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fsoyhenryok%2F&psig=AOvVaw25bOTLALXtf2gkQFoR8GXx&ust=1698271994923000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjj6anaj4IDFQAAAAAdAAAAABAE)
 
 
 ## 📫 Para contactarme 
