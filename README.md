@@ -17,7 +17,7 @@ Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end 
 📞Tel: +54 1161691727
 <p/>
 
-## HENRY
+## HENRY MIS ESTUDIOS
 ![henry](https://matiasfunes94.github.io/Portfolio-MatiasFunes94/assets/img/portfolio/henry.png)
 
 
