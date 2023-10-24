@@ -1,5 +1,5 @@
 ![portada](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
-# **Hola, Soy [Marcos Laurens](https://www.linkedin.com/in/Marquisl2/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
+# **Hola, Soy [LEANDRO CAPONETTO](https://www.linkedin.com/in/leandro-caponetto-developer/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 Fullstack Developer<br>
 Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación.<br>
 Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end como del Back-end.<br>
@@ -29,7 +29,7 @@ Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end 
       caponettopeppers@gmail.com
     </a>    
     <br>
-    <a href="https://www.linkedin.com/in/marcos-laurens/">
+    <a href="https://www.linkedin.com/in/leandro-caponetto-developer/">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg"/>
       LEANDRO CAPONETTO
     </a>
