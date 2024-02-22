@@ -9,7 +9,7 @@ Fullstack Developer<br>
 Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación.<br>
 Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end como del Back-end.<br>
 <div align="center" >
-      <img align="center" src="https://user-images.githubusercontent.com/76783198/182483558-499ad227-69c3-4323-b4f5-abab4942dade.gif" width="580" height="225"  />
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/182483558-499ad227-69c3-4323-b4f5-abab4942dade.gif" width="480" height="225"  />
       <img align="center" src="https://draftilustrator.files.wordpress.com/2023/09/programacion-informatica-draft-design-web.gif" width="480" height="225"  />
 </div> 
 
@@ -17,7 +17,7 @@ Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end 
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
 
 <div align="center" >
-      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/695px-AngularJS_logo.svg.png" width="580" height="100"  />
+      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/695px-AngularJS_logo.svg.png" width="480" height="100"  />
       <img align="center" src="https://repository-images.githubusercontent.com/655904558/0801a430-6eb9-4fc8-ad79-d350212005d8" width="380" height="225"  />
 </div> 
 
