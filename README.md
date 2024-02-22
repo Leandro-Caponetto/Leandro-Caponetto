@@ -1,7 +1,7 @@
 # Programador +5 años de experiencia
 ![portada](https://i.pinimg.com/originals/f7/54/cc/f754cc850d1b0eb55caec0fcd56bf4fd.gif)
 
-## Programador -------------------------------------------------------------------
+## Programador 
 ![portada](https://codewebbarcelona.com/wp-content/uploads/2018/12/imagenes-animadas-41.gif)
 
 # **Hola, Soy [LEANDRO CAPONETTO](https://www.linkedin.com/in/leandro-caponetto-developer/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
