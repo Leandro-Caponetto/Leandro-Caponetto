@@ -9,8 +9,9 @@ Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end 
 
 ## Lenguajes y herramientas
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
-![langujes&tools](https://repository-images.githubusercontent.com/655904558/0801a430-6eb9-4fc8-ad79-d350212005d8)
 ![langujes&tools](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/695px-AngularJS_logo.svg.png)
+![langujes&tools](https://repository-images.githubusercontent.com/655904558/0801a430-6eb9-4fc8-ad79-d350212005d8)
+
 ![portada](https://progra545857149.files.wordpress.com/2018/10/b4a0d-fondos2banimados2_zpsdbpvulbd.gif)
 ## Sobre mi 👉🙃👈
 
