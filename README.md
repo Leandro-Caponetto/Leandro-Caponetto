@@ -33,7 +33,7 @@ Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end 
 <div align="center" >
       <img align="center" src="https://matiasfunes94.github.io/Portfolio-MatiasFunes94/assets/img/portfolio/henry.png" width="480" height="125"  /> <p></p> <br></br>
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/2560px-Udemy_logo.svg.png" width="380" height="125"  /><br></br>
-</div> 
+</div> <br></br>
 <div align="center" >
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_blackbg.png" width="380" height="125"  /><br></br> <br></br>
       <img align="center" src="https://zoom.us/account/branding/p/89715480-62a0-4be3-ac22-72dd5ca2802b.png" width="680" height="125"  /><br></br>
