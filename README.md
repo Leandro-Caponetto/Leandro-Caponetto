@@ -9,6 +9,7 @@ Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end 
 
 ## Lenguajes y herramientas
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
+![langujes&tools]([https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fspring-boot-vs-cloud-gauttam-sonkamble&psig=AOvVaw0exjjJ8PpQlCjC8f1ciCBN&ust=1708701707602000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDZj4Sgv4QDFQAAAAAdAAAAABAE))
 
 ## Sobre mi 👉🙃👈
 
