@@ -9,7 +9,7 @@ Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end 
 
 ## Lenguajes y herramientas
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
-![langujes&tools](https://cdn.worldvectorlogo.com/logos/java.svg)
+![langujes&tools](https://cdn.iconscout.com/icon/free/png-256/free-java-2038875-1720088.png)
 ![langujes&tools](https://miro.medium.com/v2/resize:fit:1400/0*7CHlWcRBRDNGDyL7.png)
 
 ## Sobre mi 👉🙃👈
