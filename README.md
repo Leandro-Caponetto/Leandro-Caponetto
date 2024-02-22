@@ -10,7 +10,7 @@ Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end 
 ## Lenguajes y herramientas
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
 ![langujes&tools](https://repository-images.githubusercontent.com/655904558/0801a430-6eb9-4fc8-ad79-d350212005d8)
-
+![portada](https://experienciajoven.com/wp-content/uploads/2023/01/cursos-de-programacion-gratis-02.gif)
 ## Sobre mi 👉🙃👈
 
 <p>
