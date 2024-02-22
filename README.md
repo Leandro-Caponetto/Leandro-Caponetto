@@ -10,7 +10,7 @@ Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determ
 Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end como del Back-end.<br>
 <div align="center" >
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182483558-499ad227-69c3-4323-b4f5-abab4942dade.gif" width="380" height="225"  /> 
-      <img align="center" src="https://draftilustrator.files.wordpress.com/2023/09/programacion-informatica-draft-design-web.gif" width="380" height="125"  />
+      <img align="center" src="https://draftilustrator.files.wordpress.com/2023/09/programacion-informatica-draft-design-web.gif" width="380" height="225"  />
 </div> 
 
 ## Lenguajes y herramientas
@@ -32,7 +32,7 @@ Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end 
 ##  MIS ESTUDIOS
 <div align="center" >
       <img align="center" src="https://matiasfunes94.github.io/Portfolio-MatiasFunes94/assets/img/portfolio/henry.png" width="480" height="125"  /> <p></p>
-      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/2560px-Udemy_logo.svg.png" width="380" height="225"  />
+      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/2560px-Udemy_logo.svg.png" width="380" height="125"  />
 </div> 
 <div align="center" >
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_blackbg.png" width="480" height="225"  />
