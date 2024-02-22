@@ -20,6 +20,11 @@ Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end 
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/695px-AngularJS_logo.svg.png" width="380" height="100"  />
       <img align="center" src="https://repository-images.githubusercontent.com/655904558/0801a430-6eb9-4fc8-ad79-d350212005d8" width="400" height="225"  /><br></br>
 </div> 
+<div style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/695px-AngularJS_logo.svg.png" width="380" height="100" style="display: inline-block; margin-right: 10px;" />
+    <span style="width: 10px; display: inline-block;"></span> <!-- Espacio entre imágenes -->
+    <img src="https://repository-images.githubusercontent.com/655904558/0801a430-6eb9-4fc8-ad79-d350212005d8" width="400" height="225" style="display: inline-block; margin-left: 10px;" />
+</div>
 
 ![portada](https://progra545857149.files.wordpress.com/2018/10/b4a0d-fondos2banimados2_zpsdbpvulbd.gif)
 ## Sobre mi 👉🙃👈
