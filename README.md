@@ -6,6 +6,7 @@ Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end 
 <div align="center" >
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182483558-499ad227-69c3-4323-b4f5-abab4942dade.gif" width="330" height="225"  />
 </div> 
+![portada](https://codewebbarcelona.com/wp-content/uploads/2018/12/imagenes-animadas-41.gif)
 
 ## Lenguajes y herramientas
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
