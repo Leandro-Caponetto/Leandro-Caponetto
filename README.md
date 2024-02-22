@@ -1,4 +1,6 @@
 ![portada](https://i.pinimg.com/originals/f7/54/cc/f754cc850d1b0eb55caec0fcd56bf4fd.gif)
+![portada](https://codewebbarcelona.com/wp-content/uploads/2018/12/imagenes-animadas-41.gif)
+
 # **Hola, Soy [LEANDRO CAPONETTO](https://www.linkedin.com/in/leandro-caponetto-developer/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 Fullstack Developer<br>
 Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación.<br>
@@ -6,7 +8,6 @@ Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end 
 <div align="center" >
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182483558-499ad227-69c3-4323-b4f5-abab4942dade.gif" width="330" height="225"  />
 </div> 
-![portada](https://codewebbarcelona.com/wp-content/uploads/2018/12/imagenes-animadas-41.gif)
 
 ## Lenguajes y herramientas
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
